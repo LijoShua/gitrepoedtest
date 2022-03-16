@@ -1,7 +1,7 @@
 # gitrepoedtest
 
 
-this is a test 
+this is NOT a test 
 
 sdlfkaj
 fjasdl
@@ -9,5 +9,5 @@ fjasdl
 
 asdfjlk
 
-This is Ben's version of the README
+This is Ben's version of the REAMDE
 
